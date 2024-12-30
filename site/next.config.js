@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'OpenEngine74 Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://adelorenzo.github.io/kasm-registry',
+    listUrl: 'https://openengine74.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
